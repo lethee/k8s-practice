@@ -9,7 +9,7 @@ $ brew install vagrant
 
 ## Configuration
 
-See [Vagrantfile]().
+See [Vagrantfile](Vagrantfile).
 
 ## Up, Status and Destroy
 
